@@ -1,0 +1,18 @@
+{
+    "appGroupId": "locrsa",
+    "name": "App Loc RSA Updated",
+    "description": "Regression 54.2 Updated",
+    "publisher": "LN Updated",
+    "loadUrl": "https://test.com/updated",
+    "iconUrl": "https://freeiconshop.com/wp-content/uploads/edd/bulb-curvy-flat.png",
+    "domain": "https://test.com/updated",
+    "certificate": "-----BEGIN CERTIFICATE-----\nMIIFgjCCA2qgAwIBAgIJAM+5GN4F/pFGMA0GCSqGSIb3DQEBCwUAMFYxCzAJBgNV\nBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5ldCBX\naWRnaXRzIFB0eSBMdGQxDzANBgNVBAMMBmxvY3JzYTAeFw0xODEyMDQwNzExMDJa\nFw0xOTAxMDMwNzExMDJaMFYxCzAJBgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0\nYXRlMSEwHwYDVQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQxDzANBgNVBAMM\nBmxvY3JzYTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBANwvn4hmoyCR\nNm1Fv0YmRdtiW/uqj3oaRbxY4p7nMhMOkdZ8CpAIItsuxS90QipnjfMU/zRx0Ms0\nq+0g+Wj3z1dmoxGUThPaV4iRcC3mTcGYMVm7qVGij6Hoa1NpWsW94qjRXPgMJB76\n56cUnIlUa8cgZASDeCYKJU4T7LiF896gUByqspKO05ASHz4LYdY8BKe2GZM+6POA\nQa91Es/Zl60MRpsXwZcslfHBxMGxykNZQKrqROB1gBtqg2yyR+m2KPAgLXzCAw1v\nvkqd/Co6w8Hjfm5wAzW3Tr0W+1Mw5A9hJ5qR0tRgSt13Zft5cqapXKO8sfzmUtxZ\nzo3C+8ux3Lh2c5PupJrSveuEVVeuxYyx6X0g/ysrSCGDZ+/TRW6ZpLzs6QR81aY/\nOwD+jqVNC7UsnnmmLO+n50OgRjGorwk1PSbJUMUIUQrwX/zsRh/mFux1QvWDe5aA\nja8UxvAmX/G89/DZQxJrICJEhN6sTI8hLVn1crnoi8DSug7OPXQFKIB2zL45qSI7\nQW4fek8RTbk3xWfpFC3nop3YxEKekRz3iaM+EsPmIRS9+crHke3k/YRbnYmRO8jC\nqZnLDsqN+pyi1u0kRY0guVLnK/Ol9FL9Ivckyijy/GqTdHEPHlogoDQnE1yohsqF\n+XoqJuP+rRU3MHd6Qc1Xk3X0He0DfcZfAgMBAAGjUzBRMB0GA1UdDgQWBBTvBt+h\nWLZOLcwmFXrJx4CmSj5VfDAfBgNVHSMEGDAWgBTvBt+hWLZOLcwmFXrJx4CmSj5V\nfDAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4ICAQCEp8i0vg4NZlp3\nW3f0WCtuOB90w38Bz7as9D6YAPJepLctfHgO8xFkWpstsY0HCohuP/ZIFloiF5Yw\n4fJHHV1nE6riU5nQUUq9xImmUMQ/tC+q/nmoI7cWXNRgPbLElaTvJTE3Fz4vUlfK\nKzYFRjOjPkQGxKfGWzh0Pxa2I3C5QZzHubnReN00w+tJJ+WofLTGQw3iqQfwcBPh\nDLNVYgRuOeqlrk8srP/QRfFi4uz93kYCnLxfXXKbjtpnht+xms4LHaCXtrug2tB+\nX7+tbgn4GlNG/fSiHEnoZhMLImGGvhACdmM1ZzlKgLP7VcfIDHoZTizoSMlgGdKy\nWhky5oV14yMmevkoHLd4vxMuAo1pvEe7lwkNnfJ3ugpnnXPKvBA2J590gLDKZKpa\nuBW+RV0lXRvbhnjgX+G3TorDPaE0A4hgU+NeAc3rirs2ijNR8JEEQh9Qj6C25AtA\n/KtncijB3+GyIQrltfvoLZxZt7AxnDKMr8wpymRLEf08CtkVIcKlHXYc8hD1hrrU\nUQmcRjYnTtt5uo9hkIzDM1wv/yi354Q1bGGDXGeA6NSnlyCgJHGWnYm30w/eY9Io\nZGHpKKLakxkILdm0SRCx4+aw8m0CU8COLVZ3fYu9lldkBO4eZFMxLlwzyUvqrFmS\niOiAfy799tKnJNXZwumDaKfAqeBrUw==\n-----END CERTIFICATE-----",
+    "permissions": [
+        "ACT_AS_USER"
+    ],
+    "allowOrigins": "https://test.updated.com",
+    "notification": {
+        "url": "https://test.com/updated"
+    },
+    "rsaKey": "-----BEGIN PUBLIC KEY-----MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAlZj1jHxvQtsqGIxCGisOr5UROIg3TDTKT0p7N04hciwkUWqYbqTD0SHA1gK8eYnsWKkevKAhd8Myq6vL/M3gR2hE25XZj38uyeX+mwbWPNLXKYd0TfpcZf/DqKg77xrmxsX/bhdA4cqGu0MyhJ9AV8zKGsVrjkQk5AMiNYMfUKs1GtZMIuHuPMhis6eYGCbSUi9OtR8/jwAbrlNrtpsURBPA0epdko1p2e2haDlv6u8yzfJaC/09hkVdyHHbaVa0l2UwFaUfnG02LMe+NKIf39hYZX7MfedATEFCMHWBre2R1imN2yVahiZBcSp/ESnp7OxJo5bFAYx3/rgelM9gwk3885XUUqRw8v9CbUzKi7hiK/R/TgSYHAyU+I5Q19zXDyXuNJEadDCZ0kDWsuhL9xCr91lFQpzLeX3NAqtPYpVkWlkQBcRX5/m6g0cjVxBjfaV9bwQcz9EehVm6lhsLFOW8OJkwbtaEGKWoj8mLI6cKOOcioU6nghn6VG7LWuP8qLKILcw1k91pQqZPXzMXf7Go9GAQM9kU6lC8WA+zOFKtzewHapElEv8YRPOYQiXl9G4yApiUjTUKwB3d2I9A3c+WP8wF2Kt3W8BS1NWsKy74VF+l4uNwxKszcyh10fAPMosQpv3k1x4ZYSm4i/o4H9mWD7uV55rOQkkUw/K0bvECAwEAAQ==-----END PUBLIC KEY-----"
+}
